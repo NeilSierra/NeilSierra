@@ -73,14 +73,16 @@
 ###
 
 <p align="left">
+  
   <b>Python (Information Technology Specialist) — Certiport, 2025</b><br>
-  Credential ID: wysux-48J9 · <a href="https://verify.certiport.com">🔗 Verify</a><br><br>
+  `Credential ID: wysux-48J9` · <a href="https://verify.certiport.com">Verify</a><br><br>
   
   <b>HTML & CSS (Information Technology Specialist) — Certiport, 2025</b><br>
-  `Credential ID: 2deS-XM3V` · <a href="https://verify.certiport.com">🔗 Verify</a><br><br>
+  `Credential ID: 2deS-XM3V` · <a href="https://verify.certiport.com">Verify</a><br><br>
   
   <b>Databases (Information Technology Specialist) — Certiport, 2025</b><br>
-  `Credential ID: wabq7-FaGW` · <a href="https://verify.certiport.com">🔗 Verify</a><br><br>
+  `Credential ID: wabq7-FaGW` · <a href="https://verify.certiport.com">Verify</a><br><br>
   
   <b>SAP Business One Student Courseware (Certificate of Completion) — Erudite Academy, 2026</b>
+  
 </p>
