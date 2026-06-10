@@ -83,6 +83,8 @@
   <b>Databases (Information Technology Specialist) — Certiport, 2025</b><br>
   `Credential ID: wabq7-FaGW` · <a href="https://verify.certiport.com">Verify</a><br>
   
-  <b>SAP Business One Student Courseware (Certificate of Completion) — Erudite Academy, 2026</b>
+  <b>SAP Business One Student Courseware (Certificate of Completion) — Erudite Academy, 2026</b><br>
+
+  <b>My Badges:</b><a href="https://www.credly.com/users/neil-sierra">View Badges</a>
   
 </p>
