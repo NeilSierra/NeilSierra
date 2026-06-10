@@ -85,6 +85,6 @@
   
   <b>SAP Business One Student Courseware (Certificate of Completion) — Erudite Academy, 2026</b><br>
 
-  <b>My Badges:</b><a href="https://www.credly.com/users/neil-sierra">View Badges</a>
+  <b>My Badges: </b><a href="https://www.credly.com/users/neil-sierra">View Badges</a>
   
 </p>
