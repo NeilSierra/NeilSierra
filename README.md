@@ -85,6 +85,22 @@
   
   <b>SAP Business One Student Courseware (Certificate of Completion) — Erudite Academy, 2026</b><br>
 
-  <b>My Badges: </b><a href="https://www.credly.com/users/neil-sierra">View Badges</a>
+  <b>Python Essentials 1 (Certificate of Completion) — Cisco Networking Academy, 2024</b><br>
+
+  <b>Python Essentials 2 (Certificate of Completion) — Cisco Networking Academy, 2026</b><br>
+
+  <b>CCNA: Introduction to Networks (Certificate of Completion) — Cisco Networking Academy, 2026</b>
+  
+</p>
+
+###
+
+<h2 align="left">My Badge Wallet</h2>
+
+###
+
+<p align="left">
+
+  <b><a href="https://www.credly.com/users/neil-sierra">View Badges</a></b>
   
 </p>
