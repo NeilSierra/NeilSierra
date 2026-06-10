@@ -101,6 +101,6 @@
 
 <p align="left">
 
-  <b><a href="https://www.credly.com/users/neil-sierra">View Badges</a></b>
+  <b><a href="https://www.credly.com/users/neil-sierra" target="_blank">View Badges</a></b>
   
 </p>
